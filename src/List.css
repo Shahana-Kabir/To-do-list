@@ -1,0 +1,9 @@
+.list{
+    display: flex;
+   /* margin: 2rem; */
+    
+}
+.list__buttons{
+    margin: 2rem;
+    list-style-type: none;
+}
